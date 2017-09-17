@@ -14,3 +14,5 @@ C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\Xamarin.Forms.Platfor
 C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Debug\PlayIT.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Debug\PlayIT.SigninPage.xaml.g.cs
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Debug\PlayIT.CreatePage.xaml.g.cs

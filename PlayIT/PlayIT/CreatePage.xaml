@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    
+             x:Class="PlayIT.CreatePage" Title="Create" Icon="ic_create.png">
+    <ContentPage.Content>
+        
+        <Label Text="This is the page to create account" VerticalOptions="Center"
+               HorizontalOptions="Center" TextColor="Red"/>
+        
+    </ContentPage.Content>
+</ContentPage>

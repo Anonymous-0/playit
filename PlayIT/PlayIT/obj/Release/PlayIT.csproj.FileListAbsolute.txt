@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Release\PlayIT.dll
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Release\PlayIT.pdb
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Release\PlayIT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Release\PlayIT.MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Release\PlayIT.App.xaml.g.cs
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Release\PlayIT.dll
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Release\PlayIT.pdb

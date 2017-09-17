@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Debug\PlayIT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Debug\PlayIT.MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Debug\PlayIT.App.xaml.g.cs
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Debug\PlayIT.dll
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Debug\PlayIT.pdb
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\PlayIT.dll
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\PlayIT.pdb
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Admin\source\repos\PlayIT\PlayIT\PlayIT\obj\Debug\PlayIT.csprojResolveAssemblyReference.cache

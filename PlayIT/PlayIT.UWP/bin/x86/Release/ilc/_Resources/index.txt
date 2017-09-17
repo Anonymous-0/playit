@@ -1,0 +1,3 @@
+PlayIT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  PlayIT.MainPage.xaml
+  PlayIT.App.xaml

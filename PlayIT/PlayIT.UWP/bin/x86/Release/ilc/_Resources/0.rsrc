@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PlayIT"
+             x:Class="PlayIT.MainPage">
+    <ContentPage Title="Sign In" Icon="ic_account_circle.png">
+            <StackLayout Spacing="20" Padding="20"
+                         VerticalOptions="Center">
+                <Entry Placeholder="Username"/>
+                <Entry Placeholder="Password"
+                            IsPassword="True"/>
+                <Button Text="Login" TextColor="White"
+                      BackgroundColor="Green"/>
+         </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Register" Icon="ic_create.png">
+        
+    </ContentPage>
+
+</TabbedPage>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlayIT.SigninPage"
+             Title="Sign In" Icon="ic_account_circle.png"
+             BackgroundColor="#00a876">
+
+    <ContentPage.Content>
+
+        <StackLayout Spacing="20" Padding="20" VerticalOptions="Center" Margin="0,0,0,50">
+            <ActivityIndicator x:Name="ActivitySpinner" Color="MediumPurple" IsRunning="True"/>
+            <Label Text="Sign in!" FontSize="36"/>
+            <Entry x:Name="Entry_Username" Placeholder="Username" Style = "{StaticResource entry_signin}"/>
+            <Entry x:Name="Entry_Password" Placeholder="Password" IsPassword = "True" Style = "{StaticResource entry_signin}"/>
+            <Button x:Name="Btn_Login" Text="Login" VerticalOptions="End" Clicked="Login"/>
+        </StackLayout>
+
+    </ContentPage.Content>
+
+</ContentPage>

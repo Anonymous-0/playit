@@ -4,6 +4,25 @@
              x:Class="PlayIT.App">
 	<Application.Resources>
 
+        <ResourceDictionary>
+
+            <Style TargetType="Button">
+                <Setter Property="BackgroundColor" Value="White"/>
+                <Setter Property="TextColor" Value="#00a876"/>
+            </Style>
+
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="White"/>
+            </Style>
+
+            <Style x:Key="entry_signin" TargetType="Entry">
+                <Setter Property="PlaceholderColor" Value="White"/>
+                <Setter Property="BackgroundColor" Value="Transparent"/>
+                <Setter Property="TextColor" Value="White"/>
+            </Style>
+            
+        </ResourceDictionary>
+
 		<!-- Application resource dictionary -->
 
 	</Application.Resources>

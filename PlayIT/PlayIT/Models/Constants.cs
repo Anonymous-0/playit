@@ -10,5 +10,8 @@ namespace PlayIT.Models
     {
         public static bool isDev = true;
 
+        //----------Login-----------
+
+        public static string Loginurl = "https://test.com/api/Auth/Login";
     }
 }

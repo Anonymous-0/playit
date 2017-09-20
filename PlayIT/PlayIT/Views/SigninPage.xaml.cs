@@ -23,10 +23,10 @@ namespace PlayIT
         {
             ActivitySpinner.IsVisible = false;
             Entry_Username.Completed += (s, e) => Entry_Password.Focus();
-            Entry_Password.Completed += (s, e) => Login(s, e);
+            Entry_Password.Completed += (s, e) => LoginAsync(s, e);
         }
-        
-        void Login(object sender, EventArgs e)
+
+        async void LoginAsync(object sender, EventArgs e)
         {
             User user = new User(Entry_Username.Text, Entry_Password.Text);
 
@@ -35,6 +35,11 @@ namespace PlayIT
                 if (user.CheckInformation())
                 {
                     DisplayAlert("Login", "Login Success", "OK");
+                    var result = await App.RestService.Login(user);
+                    if(result.access_token != null)
+                    {
+                        App.UserDatabase.SaveUser(user);
+                    }
                 }
                 else
                 {
